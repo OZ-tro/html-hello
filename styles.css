@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    
+    color: rgb(43, 35, 53);
+    font-family: "Anonymous Pro", monospace;
+    font-size: 80px;
+}
+.wrapper {
+  background-color: rgb(236, 231, 215);
+  width: 80%;
+  height: 1920px;
+  margin: auto;
+  padding-top: 100px;
+  border-radius: 50px;
+;
+}
+body {
+  background-color: rgb(241, 238, 227);
+}
+
+
+
+.Div1 {
+  background-color: aqua;
+  width: 600px;
+  height: 825px;
+  margin: auto;
+  border-radius: 25px;
+
+}
+#Photo-header {
+  background-color: blue;
+  width: 600px;
+  height: 10%;
+  margin: auto;
+  color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+#Photo-img {
+  background-color: brown;
+  width: 600px;
+  height: 70%;
+}
+img {
+  position: absolute;
+
+}
+
+#Photo-footer {
+  background-color: chartreuse;
+  width: 600px;
+  height: 20%;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
